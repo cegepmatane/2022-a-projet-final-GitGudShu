@@ -4,11 +4,11 @@
 
 ## Présentation 
 
-Le but du projet est de réaliser un accordeur automatique de guitare avec des capteurs et (dans mon cas) un arduino UNO. L'utilisateur peut sélectionner la corde qu'il veut accorder à l'aide du potentiomètre prévu à cet effet et des leds qui jouent le rôle d'indicateurs visuels. Une fois la corde sélectionnée, le stepper motor tournera la clé de la guitare pour accorder la guitare. J'ai moi nême fait une démo du circuit dans la vidéo ci-dessous.
+Le but du projet est de réaliser un accordeur automatique de guitare avec des capteurs et (dans mon cas) un arduino UNO. L'utilisateur peut sélectionner la corde qu'il veut accorder à l'aide du potentiomètre prévu à cet effet et des leds qui jouent le rôle d'indicateurs visuels. Une fois la corde sélectionnée, le stepper motor tournera la clé de la guitare pour accorder la guitare. J'ai moi même fait une démo du circuit dans la vidéo ci-dessous.
 
 ## Difficultés 
 
-Le project n'est pas 100% opérationnel, j'ai rencontré des difficultés pour mesurer la fréquence d'une source sonore (voir le code [ici](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/frequency/frequency.ino)). Pour tout de même rendre quelque chose de présentable, j'ai simulé la clé d'une guitare avec un potentiomètre. C'est cette simulation qui est décrite ci-dessous.
+Le project ne s'est pas passé comme prévu, j'ai rencontré des difficultés pour mesurer la fréquence d'une source sonore (voir le code [ici](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/frequency/frequency.ino)). Ce code devrait marcher et pourtant j'obtient des valeurs inutilisable qui varient beaucoup trop. Je pense que c'est probablement à cause du son de la guitare qui n'est pas pur, mais la transformation de fourier devrait justement être capable de récupérer la fréquence fondamentale et d'ignorer les harmoniques. Peut être que le composant que j'ai pu tester n'était pas le bon, les inscriptions sur le composant qui sont censés me donner le modèle sont écrites en chinois et j'ai trouvé plusieurs composants sur internet qui possède la même apparence mais ne possède pas le même nom. Donc difficile à dire si j'utilisais le bon matériel. Pour tout de même rendre quelque chose de présentable, j'ai simulé la clé d'une guitare avec un potentiomètre. C'est cette simulation qui est décrite ci-dessous.
 
 Si j'avais à ma disposition une guitare, l'idée serait donc aussi d'ajouter un "bras" attaché au stepper pour saisir la clé de la guitare.
 
