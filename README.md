@@ -186,3 +186,4 @@ Lien vers le fichier fritwing du circuit [ici](https://github.com/cegepmatane/20
 ### Bonus. Le circuit si j'étais resté sur l'idée des boutons (sans le potentiomètre pour sélectionner la corde)
 
 ![alt text](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/IMG_20221212_172033.jpg)
+*pas super pratique*
