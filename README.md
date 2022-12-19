@@ -183,6 +183,6 @@ Lien vers le fichier fritwing du circuit [ici](https://github.com/cegepmatane/20
 - [Fréquence audio tutoriel](https://create.arduino.cc/projecthub/lbf20012001/audio-frequency-detector-617856)
 - [Accel stepper documentation](https://www.airspayce.com/mikem/arduino/AccelStepper/classAccelStepper.html)
 
-## Bonus. Circuit si j'étais resté sur l'idée des boutons (sans le potentiomètre pour sélectionner la corde)
+### Bonus. Le circuit si j'étais resté sur l'idée des boutons (sans le potentiomètre pour sélectionner la corde)
 
 ![alt text](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/IMG_20221212_172033.jpg)
