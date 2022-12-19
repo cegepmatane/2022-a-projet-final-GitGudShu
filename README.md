@@ -12,7 +12,7 @@ Le project n'est pas 100% opérationnel, j'ai rencontré des difficultés pour m
 
 # 2. Vidéo de présentation
 
-
+[![Watch the video](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/demo.jpg)](https://www.youtube.com/watch?v=oNwg5O6B6pg&ab_channel=Sh%C5%AB)
 
 # Sources
 
