@@ -29,7 +29,7 @@ Si j'avais à ma disposition une guitare, l'idée serait donc aussi d'ajouter un
 
 # 4. Code
 
-Il faudra inclure la librairie *AccelStepper.h* pour faire marcher le stepper.
+Il faudra inclure la librairie ***AccelStepper.h*** pour faire marcher le stepper.
 
 ```cpp
 
@@ -172,6 +172,10 @@ void loop()
 ```
 
 # 5. Diagramme du circuit
+
+Lien vers le fichier fritwing du circuit [ici](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/circuit.fzz)
+
+![alt text](https://github.com/cegepmatane/2022-a-projet-final-GitGudShu/blob/main/circuit.jpg)
 
 # Sources
 
