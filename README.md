@@ -29,6 +29,8 @@ Si j'avais à ma disposition une guitare, l'idée serait donc aussi d'ajouter un
 
 # 4. Code
 
+Il faudra inclure la librairie *AccelStepper.h* pour faire marcher le stepper.
+
 ```cpp
 
 // Include the AccelStepper library:
@@ -168,6 +170,8 @@ void loop()
   //Serial.println(y);  //post mapped value, println is a linebreak as well
 }
 ```
+
+# 5. Diagramme du circuit
 
 # Sources
 
