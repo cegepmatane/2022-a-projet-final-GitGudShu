@@ -1,4 +1,4 @@
-# TP3(EFC) – Final Project - Accordeur automatique de guitare - (Thomas Chu)
+# TP3(EFC) – Projet final - Accordeur automatique de guitare - (Thomas Chu)
 
 # 1. Le projet
 
